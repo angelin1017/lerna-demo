@@ -1,5 +1,5 @@
 {
-  "name": "es-module",
+  "name": "es-modulefs",
   "version": "1.0.1-alpha.0",
   "main": "dist/index.js",
   "scripts": {
