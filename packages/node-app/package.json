@@ -1,10 +1,10 @@
 {
   "name": "node",
-  "version": "1.0.2-alpha.0",
+  "version": "1.0.3-alpha.0",
   "main": "index.js",
   "license": "ISC",
   "dependencies": {
-    "commonjs": "^1.0.2-alpha.0",
+    "commonjs": "^1.0.3-alpha.0",
     "es-module": "^1.0.1-alpha.0"
   }
 }
