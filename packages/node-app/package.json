@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "ISC",
   "dependencies": {
-    "commonjs": "^1.0.3-alpha.0",
-    "es-module": "^1.0.1-alpha.0"
+    "npm-publish-module1-fs": "1.0.0"
   }
 }
