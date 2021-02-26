@@ -2,6 +2,5 @@
   "name": "commonjsfs",
   "version": "1.0.8-alpha.0",
   "main": "index.js",
-  "license": "MIT",
-  "gitHead": "ced944aed474589cc339dccf8bcf32e8646c6e23"
+  "license": "MIT"
 }

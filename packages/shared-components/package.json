@@ -17,6 +17,5 @@
     "styled-components": "^2.4.0",
     "webpack": "^5.11.1",
     "webpack-cli": "^4.3.1"
-  },
-  "gitHead": "ced944aed474589cc339dccf8bcf32e8646c6e23"
+  }
 }
