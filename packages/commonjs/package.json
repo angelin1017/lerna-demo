@@ -1,6 +1,6 @@
 {
   "name": "commonjsfs",
-  "version": "1.0.3-alpha.0",
+  "version": "1.0.4-alpha.0",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "0a00d5a68cf67a6f7424c96a0f1dd4c1071587f0"
