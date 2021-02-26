@@ -1,5 +1,5 @@
 {
-  "name": "nodefs",
+  "name": "nodefengsi",
   "version": "1.0.5-alpha.0",
   "main": "index.js",
   "license": "ISC",
@@ -7,5 +7,5 @@
     "commonjs": "^1.0.3-alpha.0",
     "es-module": "^1.0.1-alpha.0"
   },
-  "gitHead": "2121819cba0bb47bc330a96898acbfa819c23b30"
+  "gitHead": "ced944aed474589cc339dccf8bcf32e8646c6e23"
 }
